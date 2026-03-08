@@ -1,0 +1,7 @@
+fastapi
+langgraph
+playwright
+openai
+whisper
+uvicorn
+python-dotenv
